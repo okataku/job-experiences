@@ -1,0 +1,30 @@
+---
+projects:
+  - title:
+    terget:
+    from:
+    to:
+    member:
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: false
+      PG: false
+      UT: false
+      IT: false
+      OM: false
+    skills:
+      os:
+        -
+      db:
+        -
+      language:
+        -
+      framework:
+        -
+      middleware:
+        -
+      tool:
+        -

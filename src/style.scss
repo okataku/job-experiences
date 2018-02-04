@@ -1,0 +1,107 @@
+@import "reset";
+
+$font-family: Avenir, "Helvetica neue", Helvetica, 游ゴシック, YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo, "ＭＳ Ｐゴシック", sans-serif;
+
+$phase-tag-color: #1abc9c;
+$tech-tag-color: #3498db;
+$border-color: #ecf0f1;
+$font-color: #2c3e50;
+
+@mixin tag {
+  display: inline-block;
+  margin: 2px;
+  padding: 8px 10px;
+  border: 1px solid #d9d9d9;
+  background-color: #d9d9d9;
+  border-radius: 4px;
+  font-size: 1.0rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #ecf0f1;
+  font-family: $font-family;
+  font-size: 1.4rem;
+  color: $font-color;
+}
+
+
+.careers {
+  margin: 0 auto;
+  padding: 10px;
+  max-width: 772px;
+
+  h1 {
+    //margin: 10px 0px;
+    //border-bottom: 1px solid $border-color;
+    //padding-bottom: 10px;
+    padding: 10px 0;
+    font-size: 2.8rem;
+    font-weight: bold;
+  }
+
+  h2 {
+    margin: 10px 0px;
+    border-bottom: 1px solid $border-color;
+    padding-bottom: 10px;
+    font-size: 2.0rem;
+    font-weight: bold;
+  }
+
+  h3  {
+    font-size: 1.6rem;
+    padding: 10px 0px;
+  }
+
+  .career {
+    margin-bottom: 20px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    padding: 10px;
+    background-color: #fff;
+
+    .props {
+      font-size: 1.2rem;
+      color: #34495e;
+
+      span {
+        display: inline-block;
+        margin-right: 10px;
+      }
+      .year {}
+      .period {}
+    }
+
+    .phases {
+      margin-bottom: 10px;
+      .phase {
+        @include tag;
+
+        &.assigned {
+          border-color: $phase-tag-color;
+          background-color: $phase-tag-color;
+          color: #fff;
+        }
+      }
+    }
+
+    .techs {
+      margin-bottom: 10px;
+      .tech {
+        @include tag
+        border-color: $tech-tag-color;
+        background-color: $tech-tag-color;
+        color: #fff;
+      }
+    }
+  }
+}

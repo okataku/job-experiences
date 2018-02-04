@@ -1,0 +1,835 @@
+---
+careers:
+  - title: 輸出帳票管理システム グループ展開/改修
+    target: 自動車部品メーカー
+    from: 2018-01-01
+    to: 2018-03-31
+    member: 3
+    phase:
+      PM: false
+      PL: true
+      RD: false
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      os:
+        - Windows Server 2012R2
+      db:
+        - DB2
+      language:
+        - C#.NET
+      framework:
+        - ASP.NET
+        - Open棟梁
+      middleware:
+        - IIS
+      tool:
+        - VisualStudio
+
+  - title: 電子部品発注システム
+    target: 自動車部品メーカー
+    from: 2017-07-01
+    to: 2017-12-31
+    member: 7
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      os:
+        - Windows Server 2012R2
+      db:
+        - DB2
+      language:
+        - C#.NET
+      framework:
+        - WPF
+        - ASP.NET
+      middleware:
+        - IIS
+      tool:
+        - VisualStudio
+
+  - title: 美容師求人サイト開発
+    target: 自社
+    from: 2017-05-01
+    to: 2017-06-30
+    member: 5
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: true
+      PG: true
+      UT: true
+      IT: false
+      OM: false
+    skills:
+      os:
+        - Windows Server
+      db:
+        - DB2
+      language:
+        - C#.NET
+        - HTML
+        - CSS
+        - Javascript
+      framework:
+        - ASP.NET
+      library:
+        - jQuery
+      middleware:
+        - IIS
+      tool:
+        - VisualStudio
+
+  - title: 卸売システム パッケージ開発
+    target: SIer
+    from: 2016-11-01
+    to: 2017-01-31
+    member: 2
+    phase:
+      PM: false
+      PL: false
+      RD: true
+      BD: true
+      DD: false
+      PG: false
+      UT: false
+      IT: false
+      OM: false
+    skills:
+      db:
+        - PostgreSQL
+      language:
+        - Java
+      framework:
+        - Intra-mart
+
+  - title: 製薬会社 服薬管理システム改修
+    target: SIer
+    from: 2016-10-01
+    to: 2016-11-30
+    member: 4
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: true
+      PG: true
+      UT: true
+      IT: false
+      OM: false
+    skills:
+      os:
+        - CentOS6
+      db:
+        - MySQL
+      language:
+        - PHP
+        - HTML
+        - CSS
+        - Javascript
+      framework:
+        - ZendFramwork
+        - jQuery
+
+  - title: 基幹システム 改修・運用(社内SE)
+    target: 自社
+    from: 2015-06-01
+    to: 2016-07-31
+    member: 3
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: true
+    skills:
+      os:
+        - Windows Server 2003
+      db:
+        - Sybase
+      language:
+        - C#.NET
+        - VB6
+        - VBA
+        - PowerBuilder
+      tool:
+        - VisualStudio
+
+  - title: 生産実績収集システム
+    target: 自動車部品メーカー
+    from: 2015-01-01
+    to: 2015-03-31
+    member: 5
+    phase:
+      PM: false
+      PL: true
+      RD: true
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      os:
+        - Windows Server 2012R2
+      db:
+        - SQL Server
+      language:
+        - C#.NET
+        - HTML
+        - CSS
+        - Javascript
+      framework:
+        - ASP.NET MVC
+        - ExtJS
+        - ComponentOne
+      middleware:
+        - IIS
+      tool:
+        - VisualStudio
+
+  - title: 受領書読取ツール開発
+    target: 自動車部品メーカー
+    from: 2015-01-01
+    to: 2015-01-31
+    member: 2
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: false
+      PG: false
+      UT: false
+      IT: false
+      OM: false
+    skills:
+      db:
+        - SQL Server
+      language:
+        - C#.Net
+
+  - title: 部品単価表および商品検索サイト開発
+    target: ガス器具製造販売会社
+    from: 2014-12-01
+    to: 2015-01-31
+    member: 3
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      platform:
+        - Salesforce
+      language:
+        - APEX
+        - Visualforce
+      tool:
+        - Eclipse
+
+  - title: 出荷検品システム開発
+    target: 自動車部品メーカー向け
+    from: 2014-12-01
+    to: 2015-01-31
+    member: 3
+    phase:
+      PM: false
+      PL: false
+      RD: true
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      os:
+        - Windows Server
+      db:
+        - SQL Server
+      language:
+        - C#.NET
+        - C (BHT-C)
+      middleware:
+        - IIS
+      tool:
+        - VisualStudio
+
+  - title: SFDC開発支援
+    target: 物流企業
+    from: 2014-12-01
+    to: 2015-02-28
+    member: 2
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: false
+      PG: false
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      platform:
+        - Saleforce
+      tool:
+        - Eclipse
+        - SkyVisualEditor
+
+  - title:  SFDC開発支援
+    target: OA機器販売会社
+    from: 2014-10-01
+    to: 2014-11-30
+    member: 3
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      platform:
+        - Salesforce
+      db:
+        - SQL Server
+      language:
+        - APEX
+        - Visualforce
+        - VBA
+      tool:
+        - Eclipse
+        - DataLoader
+
+  - title: ３ヶ月見込みシステム開発
+    target: 電気絶縁材料メーカー
+    from: 2014-07-01
+    to: 2014-12-31
+    member: 5
+    phase:
+      PM: false
+      PL: true
+      RD: true
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      os:
+        - Windows Server
+      db:
+        - SQL Server
+      language:
+        - PHP
+        - HTML
+        - CSS
+        - Javascript
+      framework:
+        - CakePHP
+      library:
+        - jQuery
+        - ExtJS
+        - PHPExcel
+      tool:
+        - Sublime
+
+  - title: 支給材QR読取ツール開発
+    target: 自動車部品メーカー
+    from: 2014-06-01
+    to:  2014-06-30
+    member: 2
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      os:
+        - Winsows
+      db:
+        - Access
+      language:
+        - VBA
+
+  - title: グループウェア基盤システム開発
+    target: ユーザー系情報システム子会社
+    from: 2014-02-01
+    to: 2014-02-28
+    member: 2
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: false
+      PG: true
+      UT: true
+      IT: false
+      OM: false
+    skills:
+      db:
+        - Oracle
+      language:
+        - ASP
+        - J#
+        - HTML
+        - CSS
+        - Javascript
+
+  - title: スケジューラ開発(グループウェア)
+    target: ユーザー系情報システム子会社
+    from: 2013-12-01
+    to: 2014-02-28
+    member: 4
+    phase:
+      PM: false
+      PL: false
+      RD: true
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      os:
+        - Windows Server
+      db:
+        - PostgreSQL
+        - Oracle
+      language:
+        - PHP
+        - HTML
+        - CSS
+        - Javascript
+      library:
+        - ExtJS
+        - Smarty
+      tool:
+        - phAdmin3
+
+  - title: 金型システム Windows7対応
+    target: 自動車部品メーカー
+    from: 2013-10-01
+    to: 2013-11-30
+    member: 3
+    phase:
+      PM: false
+      PL: true
+      RD: true
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      db:
+        - Access
+      language:
+        - VBA
+
+  - title: かんばんシステムWindows7対応
+    target: 自動車部品メーカー
+    from: 2013-08-01
+    to: 2013-08-01
+    member: 3
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: false
+      OM: false
+    skills:
+      db:
+        - Access
+      language:
+        - VBA
+
+  - title: 支給材システム改善
+    target: 自動車部品メーカー
+    from: 2013-07-01
+    to: 2013-08-31
+    member: 3
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: false
+      OM: false
+    skills:
+      db:
+        - SQL Server
+      language:
+        - C#.NET
+        - VBA
+      tool:
+        - VisualStudio
+
+  - title: 補給品管理システム
+    target: 自動車部品メーカー
+    from: 2013-05-01
+    to: 2013-06-30
+    member: 15
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: true
+      PG: true
+      UT: true
+      IT: false
+      OM: false
+    skills:
+      db:
+        - DB2
+      language:
+        - C#.NET
+      framework:
+        - ASP.NET MVC
+      tool:
+        - VisualStudio
+
+  - title: ドキュ楽開発(ストレージサービス)
+    target: 自社
+    from: 2012-12-01
+    to: 20012-12-31
+    member: 3
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: true
+      DD: true
+      PG: true
+      UT: false
+      IT: false
+      OM: false
+    skills:
+      platform:
+        - ニフティクラウド
+        - C4SA
+      db:
+        - MySQL
+      language:
+        - PHP
+        - HTML
+        - CSS
+        - Javascript
+      libarary:
+        - Smarty
+        - jQuery
+      tool:
+        - Eclipse
+
+  - title: かんばん受発注システム 改修
+    target: 自動車部品メーカー
+    from: 2012-08-01
+    to: 2013-02-28
+    member: 3
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: true
+      PG: true
+      UT: true
+      IT: false
+      OM: false
+    skills:
+      db:
+        - SQL Server
+      language:
+        - C#.NET
+      tool:
+        - VisualStudio
+
+  - title: かんばん受発注システム開発
+    target: 5
+    from:
+    to:
+    member:
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      db:
+        - SQL Server
+      language:
+        - C#.NET
+      tool:
+        - VisualStudio
+
+  - title: プロジェクト管理システム開発
+    target: ユーザー系情報システム子会社
+    from: 2012-01-01
+    to: 2013-08-31
+    member: 4
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      db:
+        - PostgreSQL
+        - Oracle
+      language:
+        - PHP
+        - ASP
+        - HTML
+        - CSS
+        - Javascript
+      framework:
+        - Smarty
+        - jQuery
+        - ExtJS
+      tool:
+        - Eclipse
+
+  - title: リフォーム業向け営業支援システム開発
+    target: 自社
+    from: 2011-05-01
+    to: 2011-09-30
+    member: 10
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: true
+      PG: true
+      UT: true
+      IT: false
+      OM: false
+    skills:
+      platform:
+        - Salesforce
+      language:
+        - APEX
+        - Visualforce
+      tool:
+        - Eclipse
+
+  - title: かんばん発注システム改修
+    target: 自動車部品メーカー
+    from: 2011-01-01
+    to: 2011-01-31
+    member: 4
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      db:
+        - Access
+      language:
+        - C#.NET
+        - VBA
+      tool:
+        - VisualStudio
+
+  - title: かんばん受発注システム改修
+    target: 自動車部品メーカー
+    from: 2010-07-01
+    to: 2010-12-31
+    member: 5
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: false
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      db:
+        - SQL Server
+      language:
+        - C#.NET
+      tool:
+        - VisualStudio
+
+  - title: 生産実績管理システム改修
+    target: 基板メーカー
+    from: 2010-06-01
+    to: 2010-06-30
+    member: 2
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      db:
+        - SQL Server
+      language:
+        - C#.NET
+      tool:
+        - VisualStudio
+
+  - title: かんばん受発注システム パッケージ開発
+    target: 自社
+    from: 2010-04-01
+    to: 2010-06-30
+    member: 10
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: false
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      db:
+        - SQL Server
+      language:
+        - C#.NET
+      library:
+        - ComponentOne
+      tool:
+        - VisualStudio
+
+  - title: 買掛一覧自動作成システム
+    target: 自動車部品メーカー
+    from: 2010-02-01
+    to: 2010-04-30
+    member: 2
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: false
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      db:
+        - SQL Server
+      language:
+        - C#.NET
+      tool:
+        - VisualStudio
+
+  - title: 帳票デザインツール開発
+    target: 自社
+    from: 2009-12-01
+    to: 2010-02-28
+    member: 4
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      language:
+        - C#.NET
+        - XML
+        - XSD
+      tool:
+        - VisualStudio
+
+  - title: 部品表変換ツール開発
+    target: 自動車部品メーカー
+    from: 2009-07-01
+    to: 2010-02-28
+    member: 4
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: false
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      db:
+        - Access
+      language:
+        - C#.NET
+      tool:
+        - VisualStudio
