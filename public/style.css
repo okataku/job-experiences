@@ -69,6 +69,11 @@ body {
   color: #2c3e50;
 }
 
+footer {
+  padding: 10px 0 20px 0;
+  text-align: center;
+}
+
 .careers {
   margin: 0 auto;
   padding: 10px;

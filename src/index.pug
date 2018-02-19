@@ -6,9 +6,17 @@ html(lang="ja")
     meta(http-equiv="X-UA-Compatible", content="IE=edge,chrome=1")
     meta(name="viewport", content="width=device-width, initial-scale=1")
     link(rel="stylesheet", href="./style.css", type="text/css")
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    script(async, src="https://www.googletagmanager.com/gtag/js?id=UA-114414329-1")
+    script.
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-114414329-1');
   body
     div(class="careers")
-      <h1>職務経歴</h1>
+      header
+        h1 職務経歴
       each career in careers
         div
           div(class="career")
@@ -27,3 +35,9 @@ html(lang="ja")
               each skill, category in career.skills
                 each tech in skill
                   span(class="tech") #{tech}
+      footer
+        p.
+          The source code for this page is on #[a(target="_blank" href="https://github.com/okataku/job-experiences") github].
+        p.
+          &copy; 2018 #[a(target="_blank" href="https://github.com/okataku/") okataku]
+        
