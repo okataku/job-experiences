@@ -1,5 +1,204 @@
 ---
 careers:
+  - title: 見える化システム
+    target: SIer
+    from: 2019-08-01
+    to: 2019-08-31
+    member: 3
+    phase:
+      PM: false
+      PL: true
+      RD: false
+      BD: false
+      DD: false
+      PG: true
+      UT: true
+      IT: false
+      OM: false
+    skills:
+      os:
+        - Windows
+      db:
+        - PostgreSQL
+      language:
+        - PHP
+      framework:
+        - laravel
+      lib:
+        - JQuery
+        - Bootstrap
+      middleware:
+        - IIS
+      tool:
+        - VisualStudioCode
+        - GitLab
+        - Redmine
+
+  - title: 社内グループウェア
+    target: 自社
+    from: 2019-04-01
+    to: 2019-07-31
+    member: 1
+    phase:
+      PM: false
+      PL: true
+      RD: true
+      BD: true
+      DD: true
+      PG: true
+      UT: true
+      IT: true
+      OM: false
+    skills:
+      os:
+        - Windows
+      db:
+        - SqlServer
+      language:
+        - C#
+      lib:
+        - .NET Framework
+        - JQuery
+        - Bootstrap
+      middleware:
+        - IIS
+      tool:
+        - VisualStudio
+        - SSMS
+        - Azure
+        - GitLab
+
+  - title: 半導体検査管理システム
+    target: 半導体メーカー
+    from: 2019-01-01
+    to: 2019-03-31
+    member: 3
+    phase:
+      PM: false
+      PL: true
+      RD: false
+      BD: false
+      DD: true
+      PG: true
+      UT: true
+      IT: false
+      OM: false
+    skills:
+      os:
+        - CentOS
+      db:
+        - PostgreSQL
+      language:
+        - Perl
+      lib:
+        - JQuery
+        - Bootstrap
+      middleware:
+        - IIS
+      tool:
+        - VisualStudioCode
+        - SSMS
+        - Docker
+        - Docker Compose
+        - GitLab
+
+  - title: 検査業務管理システム
+    target: 自動車部品メーカー
+    from: 2018-04-01
+    to: 2018-05-31
+    member: 3
+    phase:
+      PM: false
+      PL: true
+      RD: false
+      BD: false
+      DD: true
+      PG: true
+      UT: true
+      IT: false
+      OM: false
+    skills:
+      os:
+        - Windows Server
+      db:
+        - SqlServer
+      language:
+        - C#.NET
+        - Javascript
+        - HTML
+        - CSS
+      framework:
+        - ASP.NET WebForm
+      lib:
+        - JQuery
+      middleware:
+        - IIS
+      tool:
+        - VisualStudio
+        - SSMS
+        - Docker
+        - Docker Compose
+        - GitLab
+
+  - title: IoT設備管理システム
+    target: 自動車部品メーカー
+    from: 2018-07-01
+    to: 2018-09-30
+    member: 10
+    phase:
+      PM: false
+      PL: false
+      RD: false
+      BD: false
+      DD: false
+      PG: true
+      UT: true
+      IT: false
+      OM: false
+    skills:
+      os:
+        - Windows
+      db:
+        - PostgreSQL
+      language:
+        - PHP
+      middleware:
+        - Apache
+      tool:
+        - VisualStudioCode
+        - XDebug
+        - SVN
+
+  - title: 検査業務管理システム
+    target: 自動車部品メーカー
+    from: 2018-04-01
+    to: 2018-05-31
+    member: 2
+    phase:
+      PM: false
+      PL: true
+      RD: false
+      BD: false
+      DD: true
+      PG: true
+      UT: true
+      IT: false
+      OM: false
+    skills:
+      os:
+        - Windows Server 2012R2
+      db:
+        - DB2
+      language:
+        - C#.NET
+      framework:
+        - Silverlight
+      middleware:
+        - IIS
+      tool:
+        - VisualStudio
+        - SVN
+
   - title: 輸出帳票管理システム グループ展開/改修
     target: 自動車部品メーカー
     from: 2018-01-01
@@ -29,6 +228,7 @@ careers:
         - IIS
       tool:
         - VisualStudio
+        - SVN
 
   - title: 電子部品発注システム
     target: 自動車部品メーカー
@@ -59,6 +259,7 @@ careers:
         - IIS
       tool:
         - VisualStudio
+        - SVN
 
   - title: 美容師求人サイト開発
     target: 自社
@@ -93,6 +294,7 @@ careers:
         - IIS
       tool:
         - VisualStudio
+        - GitLab
 
   - title: 卸売システム パッケージ開発
     target: SIer
