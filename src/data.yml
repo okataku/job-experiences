@@ -56,6 +56,9 @@ careers:
         - SqlServer
       language:
         - C#
+        - Javascript
+        - HTML
+        - CSS
       lib:
         - .NET Framework
         - JQuery
@@ -67,6 +70,8 @@ careers:
         - SSMS
         - Azure
         - GitLab
+        - Jenkins
+        - Trello
 
   - title: 半導体検査管理システム
     target: 半導体メーカー
